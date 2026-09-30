@@ -12,4 +12,4 @@ No security or release gate is considered passed without execution evidence. Pro
 - `npm test`
 - `npm run build`
 
-Android builds are produced by GitHub Actions from the same verified web bundle.
+Android builds target API 36 and are produced by GitHub Actions from the same verified web bundle.
